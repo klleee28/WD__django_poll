@@ -1,0 +1,8 @@
+li a{
+    color: green;
+    font-size: 12rem;
+}
+
+body{
+    background: url('images/beach.jpg') no-repeat;
+}
